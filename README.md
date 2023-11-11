@@ -6,6 +6,7 @@ I am a backend software engineer that has experience in web, mobile application 
 ### ⚙️ Tech and Tools
  - Ruby (Rails, SAM applications)
  - Java
+ - C
  - C++
  - C# (.Net, .Net core, Razor Pages)
  - HTML
@@ -15,6 +16,7 @@ I am a backend software engineer that has experience in web, mobile application 
  - SQL
  - xaml (xamarin)
  - Kafka
+ - Postgres
 
 ### 🌱 Current Personal Work
 - Working on rebuilding my personal portfolio website

@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Samantha Zammit 
 ---
 
-I am a backend software engineer that has experience in web, mobile application and serverless development. I love using a mix of synchronous and asynchronous comminication and supporting microservice architectures with well built applications. I'm always eager to learn more and am currently exploring more in developing well supported integrations as well as the world of data science.
+I am a backend software engineer who has experience in web, mobile applications, and serverless development. I love combining synchronous and asynchronous communication and supporting microservice architectures with well-built applications. I'm always eager to learn more and am currently exploring more in developing well-supported integrations and the world of data science.
 
 ### ⚙️ Tech and Tools
  - Ruby (Rails, SAM applications)
@@ -11,12 +11,8 @@ I am a backend software engineer that has experience in web, mobile application 
  - C# (.Net, .Net core, Razor Pages)
  - HTML
  - Python (Django, SAM applications)
- - Docker
- - AWS Services (RDS, Glue, Firehose, Cognito, Lambda, etc.)
  - SQL
- - xaml (xamarin)
- - Kafka
- - Postgres
+ - XAML (Zamarin)
 
 ### 🌱 Current Personal Work
 - Working on rebuilding my personal portfolio website
